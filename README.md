@@ -114,8 +114,6 @@ Churn peaks during spring months **(March-May)** with elevated lease expirations
 - **Satisfaction Score Improvement Initiative:** Implement monthly tenant engagement surveys, rapid response systems for maintenance requests, and property-specific improvement plans to increase average satisfaction from 3.02 to target 4.0+ scores.
 
 
-Here is a simple conclusion for the Tenant Retention Optimization analysis:
-
 ### Conclusion
 
 This Power BI analysis has provided HomeVibe Properties with a clear, data-driven understanding of its most critical challenge: a 42% tenant churn rate that is undermining revenue and operational stability. While overall satisfaction scores (3.02/5) and occupancy rates (89%) appear healthy, the analysis reveals a dangerous disconnect tenants are leaving despite being moderately satisfied, pointing to deeper issues in lease flexibility, property-type management, and proactive engagement.
